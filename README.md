@@ -74,3 +74,5 @@ plt.show()
 ```
 
 [Resultados da Análise](transferir.png)
+
+A partir da análise deste conjunto de dados, 37.6% das mulheres possuem doença cardíaca, o que sugere uma possível associação entre sexo feminino e maior incidência de doenças cardíacas nesse contexto, sendo apenas uma análise de suposição, tendo em vista que o dataset possui dados de apenas 303 pessoas, muito pouco para uma análise com percentual afirmativo.

@@ -3,7 +3,7 @@
 > - Dados de treino são dados em que uma IA vai identificar e aprender padrões em imagens, a partir da intervenção humana, onde, o aprendizado torna-se supervisionado.
 > - Dados de teste, consistem na parte onde será testado o “conhecimento” da máquina. Aqui, ela vai receber inumeros dados e identificar os padrões, desta vez, sem intervenção.
 
-> Dessa forma, a Visão Computacional consiste em tornar uma máquina capaz de “enxergar”, identificar padrões (através dos pixels da imagem) e reconhece-las sem que haja interação humana,
+> Dessa forma, a Visão Computacional consiste em tornar uma máquina capaz de “enxergar”, identificar padrões (através dos pixels da imagem) e reconhece-las sem que haja interação humana.
 
 ---
 
